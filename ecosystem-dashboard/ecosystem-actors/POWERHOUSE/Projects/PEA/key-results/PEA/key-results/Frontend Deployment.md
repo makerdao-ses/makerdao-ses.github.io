@@ -1,1 +1,1 @@
-[Frontend Deployment](https://expenses-dev.makerdao.network/core-unit/SES/finances/reports?viewMonth=Jan2024)
+[Frontend Deployment](https://expenses.makerdao.network/core-unit/SES/finances/reports?viewMonth=Dec2023)
